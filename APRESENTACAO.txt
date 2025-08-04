@@ -1,0 +1,76 @@
+Apresentação: Otimizando o Fluxo da equipe de Criação
+
+1. Diagnóstico da Situação Atual
+    1.1 Desafios da Equipe de Criação
+        Crescimento da empresa: expectativa de dobrar o tamanho.
+        Equipe sobrecarregada diante do volume de entregas
+        Problemas com armazenamento, organização e tempo.
+
+    1.2 Distribuição das Demandas
+        (Gráfico sugerido: Pizza.) Arquivo: grafico1.png
+            Dados:
+            Verificação de Mídias – 2800 (54%)
+            Preenchimento de Templates – 1500 (28%)
+            Animação de Vídeos – 900 (17%)
+            Outros – 100 (1%)
+            Total: 5300 tarefas
+
+2. Tecnologias Atuais em Uso
+    2.1 Automação com Templates
+        Uso de After Effects + JavaScript + Essential Graphics
+            Aplicações:
+            Urbnews, Futebora, Urbcast, FuteboraCast
+            Colunistas e Agendas de jogos, e do Governo
+            Office Plazza, Desaparecidos, Fortal, Halleluya
+
+            obs: Desafio principal hoje: Renderização pesada dos arquivos L3D (4K, 30s)
+
+    2.2 Verificação Manual de Mídias
+        Processo simples, porém demorado e repetitivo.
+        Demanda interrupção do fluxo criativo.
+        Representa mais da metade da carga de trabalho.
+
+3. Solução Tecnológica: FFMPEG
+    3.1 Motor Gráfico por Código
+        Explicação breve do FFMPEG como ferramenta base para automações.
+
+4. W4ll-E: Ferramenta de Automação de Verificação
+    4.1 Propósito
+        Criado para automatização do fluxo de verificação de mídias.
+
+    4.2 Funcionalidades-Chave
+            Conversão de vídeos
+            Criação de SuperLED
+            Renomeação automática
+
+    4.3 Comparativo: After Effects + Media Encoder vs W4ll-E
+            Tempo de execução (Time-to-Screen)
+            Facilidade de uso
+            Espaço de armazenamento
+
+    4.4 Impacto Esperado
+        (Gráfico comparativo da pauta agora com o W4ll-E)
+
+5. Economia e Viabilidade
+    5.1 Custo Anual de Softwares
+        (Gráfico sugerido: Colunas lado a lado) Arquivo: grafico2.png
+        Adobe Creative Cloud: R$ 1.920/mês → R$ 23.040/ano (6 contas)
+        DaVinci Resolve Studio: R$ 11.726/ano (5 contas)
+        W4ll-E: Valor estimado baseado em horas/editor + espaço + licença
+
+    5.2 Proposta de Investimento
+        Versão atual: R$ 10.000 (com correções de bugs)
+        Atualizações: R$ 1.000 por grande release
+
+6. Conclusão e Caminhos Futuros
+    6.1 Próximos Passos
+        Abertura para novas funcionalidades
+        Possibilidade de escalar para outras equipes
+
+    6.2 Conhecimento Adquirido
+        Estrutura de programação
+        
+
+    6.3 Visão Estratégica
+        Menor dependência de empresas de SP
+        Mais controle, agilidade e inovação no processo
